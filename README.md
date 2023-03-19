@@ -1,7 +1,5 @@
 # reuters-data-classification
 
-Context
-
 The Reuters-21578 dataset contains 21 578 financial articles tagged with topics.
 
 There are 135 different topics, but this exercise will focus on only 5 of them:
